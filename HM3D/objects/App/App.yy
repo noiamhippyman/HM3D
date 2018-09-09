@@ -2,7 +2,7 @@
     "id": "aaf1d136-b301-45f3-acfe-676e4f18a6d7",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object0",
+    "name": "App",
     "eventList": [
         {
             "id": "47738ef0-4de3-475d-95d6-e0ac36e0fce6",
@@ -12,6 +12,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "aaf1d136-b301-45f3-acfe-676e4f18a6d7"
+        },
+        {
+            "id": "09faa03c-c27a-4991-a306-c385c08bde16",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "aaf1d136-b301-45f3-acfe-676e4f18a6d7"
         }
     ],
