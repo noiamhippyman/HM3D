@@ -13,6 +13,16 @@
             "enumb": 0,
             "eventtype": 8,
             "m_owner": "eed9bb5d-9fac-4405-a962-6dfd701d0361"
+        },
+        {
+            "id": "89fede20-0566-45a7-832f-af7bfb6f71a2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "eed9bb5d-9fac-4405-a962-6dfd701d0361"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -100,6 +110,20 @@
             "resourceFilter": 1023,
             "value": "-1",
             "varName": "texture",
+            "varType": 5
+        },
+        {
+            "id": "dd9e43aa-7c5a-46e5-ac42-8f60dde65aa0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "hm3d_shader_model",
+            "varName": "shader",
             "varType": 5
         }
     ],

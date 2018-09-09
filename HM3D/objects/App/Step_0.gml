@@ -51,3 +51,11 @@ if (mouse_check_button_pressed(mb_left)) {
 	
 }
 #endregion
+
+skin.spotLight[@0] = camera.position;
+eyes.spotLight[@0] = camera.position;
+keratin.spotLight[@0] = camera.position;
+
+skin.spotLight[@1] = camera.forward;
+eyes.spotLight[@1] = camera.forward;
+keratin.spotLight[@1] = camera.forward;

@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "200516b6-7c4b-4592-96bc-793fdf6afb6e",
+            "Value": {
+                "id": "5a20d524-7cba-497c-96f2-02c7430b5cf1",
+                "resourcePath": "sprites\\texture_trex_skin\\texture_trex_skin.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2735e63e-e93d-4bd1-886d-7fa874a77353",
             "Value": {
                 "id": "79d79cb8-0fd7-4adc-b001-3f5b4fd3540b",
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "6db8d9be-4064-482b-8be0-d18f69445918",
+            "Value": {
+                "id": "e83f5acf-635d-4314-a5f0-2875e2e3f9a5",
+                "resourcePath": "sprites\\texture_trex_eye\\texture_trex_eye.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6de2e30b-86e9-4453-ab99-8b346ee3e763",
             "Value": {
                 "id": "c3df972c-4f90-415c-85c2-2741c835b31b",
@@ -252,6 +268,14 @@
                 "id": "533f5515-817b-4475-a9e4-215dd3cb7d36",
                 "resourcePath": "views\\765998af-ebee-4065-9cd4-3b96bbbb5235.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7a2153f9-17fb-44ac-aa81-38731c92b5a4",
+            "Value": {
+                "id": "dd4ebc06-13f6-4382-bfe3-58db72ec8c71",
+                "resourcePath": "sprites\\texture_trex_toothclaw\\texture_trex_toothclaw.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -311,11 +335,27 @@
             }
         },
         {
+            "Key": "9402a499-fef9-4315-84f0-c86dfe2a8c6a",
+            "Value": {
+                "id": "a5758796-9cb5-401d-afaa-b44786567824",
+                "resourcePath": "shaders\\hm3d_shader_lamp\\hm3d_shader_lamp.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "9c46c461-ec23-4762-b0a5-9881cadc8885",
             "Value": {
                 "id": "8b796789-667d-436b-b42f-cffbf5fc0bea",
                 "resourcePath": "shaders\\hm3d_shader_model\\hm3d_shader_model.yy",
                 "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "9eefd7ca-c9b4-47b0-8272-0e3a2d1a6d7c",
+            "Value": {
+                "id": "97ce54a4-ef95-4b9c-b306-438c3cb07f94",
+                "resourcePath": "datafiles_yy\\HM3D\\Models\\TrexByJoel3d-TeethClaws.dat.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -415,6 +455,14 @@
             }
         },
         {
+            "Key": "c79939ae-f68e-42ab-a63d-31c0ff8c7735",
+            "Value": {
+                "id": "cb4d5683-9c3b-4dc3-b988-fd5bf7428a22",
+                "resourcePath": "datafiles_yy\\HM3D\\Models\\TrexByJoel3d-Skin.dat.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "7f6afbc9-590f-416c-be12-73513fdcbaf0",
@@ -460,6 +508,14 @@
                 "id": "2bf68a84-fad9-405a-a69d-4c64cf323d95",
                 "resourcePath": "views\\d08fdea6-277c-4b62-ab8b-712e34b92eaf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d8027d7d-b4ce-4d76-9b45-49912d287238",
+            "Value": {
+                "id": "829d50ae-8125-4f4c-a846-469c9b5adbf1",
+                "resourcePath": "datafiles_yy\\HM3D\\Models\\TrexByJoel3d-Eyes.dat.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {

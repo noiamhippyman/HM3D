@@ -2,7 +2,7 @@
 /// @arg name
 var name = string(argument0);
 if (!ds_map_exists(global._hm3d_model_map,name)) {
-	hm3d_show_error(eHM3DERR.WARNING,"MODEL MANAGER : No model found with the name " + name);
+	hm3d_show_error(eHM3DError.Warning,"MODEL MANAGER : No model found with the name " + name);
 	return -1;
 }
 
